@@ -1,0 +1,3 @@
+[submodule "files/sora"]
+	path = files/sora
+	url = https://github.com/tatsuyai713/sora.git
