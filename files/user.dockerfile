@@ -1,4 +1,4 @@
-FROM ghcr.io/tatsuyai713/sora-container:v0.02
+FROM ghcr.io/tatsuyai713/sora-container:v0.03
 
 ARG IN_LOCALE="JP"
 ARG IN_TZ="Asia/Tokyo"
